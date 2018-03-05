@@ -1,0 +1,10 @@
+C:\Users\tonig\Documents\C#\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+C:\Users\tonig\Documents\C#\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.exe
+C:\Users\tonig\Documents\C#\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.pdb
+C:\Users\tonig\Documents\C#\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csprojResolveAssemblyReference.cache
+C:\Users\tonig\Documents\C#\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.Form1.resources
+C:\Users\tonig\Documents\C#\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.Properties.Resources.resources
+C:\Users\tonig\Documents\C#\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csproj.GenerateResource.Cache
+C:\Users\tonig\Documents\C#\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\tonig\Documents\C#\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.exe
+C:\Users\tonig\Documents\C#\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.pdb
